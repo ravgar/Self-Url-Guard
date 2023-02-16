@@ -8,4 +8,5 @@ Url Tutulmuyormuş Artık Die Duydum Aptal Botcularım Url Korumasından Mahrum 
 Bot Yaptığım 1 Tane Sw'nin Url'Si Kaptırılmadı Bu Self Sayesinde
 
 **Gerekli Star Gelirse Guard Sizlerle**
+
 Beni Tanıyan Tanır Gerekli Star Geldikten Sonra Projeyi Atarım Buraya
