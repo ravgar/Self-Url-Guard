@@ -1,6 +1,6 @@
 # Self Url Guard
 # Url Ekranına Girince Yasaklama
-# Sekmeden Hızlı Url Tutar
+# Spammer + Koruma
 
 Url Tutulmuyormuş Artık Die Duydum Aptal Botcularım Url Korumasından Mahrum Kalmasın Die Atıyım Dedim
 
