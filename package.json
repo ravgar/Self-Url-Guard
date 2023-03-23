@@ -1,0 +1,11 @@
+{
+  "name": "urltutamayanmal",
+  "version": "0.0.1",
+  "description": "",
+  "main": "ravgar.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC"
+}
