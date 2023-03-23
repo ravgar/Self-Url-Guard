@@ -1,5 +1,5 @@
 # Self Url Guard
-# Url Ekranına Girince Yasaklama
+
 # Spammer + Koruma
 
 # Bilgilendirme
